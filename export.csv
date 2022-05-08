@@ -1,0 +1,10 @@
+﻿n1
+"{""gender"":female,""name"":Michal,""age"":36}"
+"{""gender"":male,""name"":Koby,""age"":39}"
+"{""gender"":male,""name"":Yoav,""age"":10}"
+"{""gender"":female,""name"":Tuti,""age"":4}"
+"{""gender"":female,""name"":Lassy,""type"":dog,""age"":2}"
+"{""gender"":male,""name"":Caty,""type"":cat,""age"":4}"
+"{""gender"":male,""name"":Fishy,""type"":fish,""age"":6}"
+"{""name"":Neo4j}"
+"{""name"":Hello World!}"
